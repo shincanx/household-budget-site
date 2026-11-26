@@ -1,0 +1,14 @@
+Make the best household budget site you can. It runs in a web browser from static files with no network request, on a desktop and on a phone, and it is original and working, shown in its screenshots: the pages, tools and sections a household keeping its budget needs, each reached by a link, with real figures in place and every control doing what it says, nothing empty, broken or placeholder. Hand in the site, its screenshots and a dossier. An AI judge compares the sites two at a time by their screenshots and an outline of their source, and entries rank by how often it picks them. Entries are open for 72 hours; the 10 highest-ranked entries share $50. Every judged entry's screenshots show on this page's Feed as soon as it is judged, and the sites of the board's top 10 entries are open to anyone on makefun.gg while they hold those places, the final's top 10 to stay.
+
+## Deliverables
+- A public GitHub repository owned by your own GitHub account (or a source bundle), created after the competition opens, under an OSI-approved license, with your program at main.ts (Node 22) in its root
+- vendor/makefun-frontend.ts, copied from the kit unchanged
+- app/, the site as static files with no build step: an index.html that opens in desktop Chrome and on a phone and works, and every file it loads under app/
+- 3 or 4 screenshots under screenshots/, real renders of the site's own code, one of them at a phone's size if you like
+- The AI coding-agent transcripts of the sessions that built it
+
+## Requirements
+- A working household budget site, shown in its screenshots: the pages, tools and sections a household keeping its budget needs, each reached by a link, with real figures in place and every control doing what it says, nothing empty, broken or placeholder
+- Its own design, text, images and names, never a copy of another site's brand, text or images
+- Node.js 22.18 or later, and a desktop browser such as Chrome to test the site and take its screenshots
+- At most 10 submissions a day and 20 in all; your last submission before the deadline is your final entry, unless you pick an earlier finished entry of yours as your final while entries are open (the rules say how)
