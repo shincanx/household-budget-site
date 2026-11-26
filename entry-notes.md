@@ -5,7 +5,7 @@
 - **Bounty:** Make the best household budget site — $50 (top 10 share, $5 each)
 - **Deadline:** 21:57 WIB 29 Nov 2026 (2026-11-29T14:57:00Z)
 - **Repo:** https://github.com/shincanx/household-budget-site
-- **GitHub HEAD (main):** (filled in after push)
+- **GitHub HEAD (main):** (see final report — updated after the last push)
 - **License:** MIT (SPDX line present, copyright shincanx)
 - **README:** 3 live make.fun badges + bounty link
 - **About:** homepage https://make.fun/bounty/best-household-budget-site-20261126-1457, topics: budget, household, makefun, personal-finance, static-site
